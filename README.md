@@ -1,2 +1,4 @@
-# docker_simpleelastix
-Dockerfile for building the superbuild image of simpleelastix
+# Docker SimpleElastix
+
+This is the dockerfile that was used to build the 
+*chunglabmit/simpleelastix* image.
