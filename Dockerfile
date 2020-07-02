@@ -19,4 +19,4 @@ WORKDIR /build/SimpleITK-build/Wrapping/Python
 RUN python Packaging/setup.py install
 # install other usual libraries
 WORKDIR /root
-RUN pip3 install numpy scikit-image tifffile python-fire
+RUN pip3 install numpy scikit-image tifffile fire
